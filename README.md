@@ -27,3 +27,14 @@ After sending your event, you should get a message confirming the event shortly.
 - cal 8 15 2d My Event - an alert for this event will be emailed two days prior
 - cal 8 15 1w My Event - an alert for this event will be emailed one week prior
 - cal 8 15 1w 2d My Event - alerts for this event will be emailed one week and two days prior
+
+### SETUP
+1. change the string assignment of the EMAIL variable to your phone number email address.
+ 
+**Use the guide below to figure out the proper email for your number:**
+- AT&T: '+###########@txt.att.net'
+- T-Mobile: '+###########@tmomail.net'     
+- Verizon: '+###########@vtext.com'
+- Sprint: '+###########@messaging.sprintpcs.com' 
+
+2. Run the init() function and agree to the permissions
