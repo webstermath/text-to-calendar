@@ -9,7 +9,7 @@
 2. Include optional date and time arguments (see examples below). 
 3. Add optional alert arguments (see examples below). 
 4. Add a title.  
-After sending your event, you should get a message confirming the event shortly.
+5. Send your event to your gmail address and you should get a message confirming the event shortly.
   
   ### Examples:
   **Time Arguments:**
