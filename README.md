@@ -29,7 +29,7 @@
 - cal 8 15 1w 2d My Event - alerts for this event will be emailed one week and two days prior
 
 ### SETUP
-1. change the string assignment of the EMAIL variable to your phone number email address.
+1. change the string assignment of the EMAIL variable in Main.gs to your phone number email address.
  
 **Use the guide below to figure out the proper email for your number:**
 - AT&T: '+###########@txt.att.net'
