@@ -11,7 +11,7 @@
 4. Add a title.  
 5. Send your event to your gmail address and you should get a message confirming the event shortly.
   
-  ### Examples:
+  ### Examples
   **Time Arguments:**
   - cal My Event - creates an all-day event tomorrow with the title "My Event" 
   - cal 3 My Event - creates an all-day event 3 days from now with the title "My Event" 
